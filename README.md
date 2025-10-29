@@ -23,13 +23,15 @@ initial draft
     7. Firewall 
   7. Subnet (already configured)
     1. VLAN 10 Sales
-    2. VLAN 20 Engineering
-    3. VLAN 30 CEO's office
-    4. VLAN 40 Human Resource
-    5. VLAN 50 Accounts
-    6. VLAN 60 File Server
-    7. VLAN 90 Printers
-  8. Configuration / setup
+    2. VLAN 20 Marketing
+    3. VLAN 30 Human Resource
+    4. VLAN 40 Accounts
+    5. VLAN 50 File Server
+    6. VLAN 60 CEO's office
+    7. VLAN 70 IT
+    8. VLAN 80 Engineering  (new department)
+    9. VLAN 90 IOT (Printers etc)
+  9. Configuration / setup
     1. Office
       1. router
       2. firewall
