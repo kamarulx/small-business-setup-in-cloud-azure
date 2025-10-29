@@ -1,7 +1,7 @@
 # small-business-setup-in-cloud-azure
 
 Small business expansion (Noit Resources) into cloud
-initial draft
+Initial draft
   1. Small engineering company (Noit Resources), recently expanded service and obtained a exclusive disributor license of a well      known engineering equipment system.
   2. Existing departments:
     1. Sales
@@ -35,12 +35,18 @@ initial draft
     1. Office
       1. router
       2. firewall
-        1. (Reconfigure to allow site to site VPN to Azure)
-      3. 
-    3. Cloud Azure
+        1. Reconfigure to allow site to site VPN to Azure
+    2. Cloud Azure
       1. VM
         1. Basic setup: network etc
         2. Install 3rd party engineering software
         3. Install printer driver (allow printing at office's printer)
       2. Virtual network setup
       3. Network Security Group / Security Policy
+
+Staff documentation update
+
+Future upgrade
+1. CCTV
+2. Electronic attendance
+3. 
