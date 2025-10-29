@@ -2,7 +2,7 @@
 
 Small business expansion (Noit Resources) into cloud
 Initial draft
-  1. Small engineering company (Noit Resources), recently expanded service and obtained a exclusive disributor license of a well      known engineering equipment system.
+  1. Small engineering company (Noit Resources), recently expanded service and obtained a exclusive disributor license of a well known engineering equipment system.
   2. Existing departments:
     1. Sales
     2. Engineering
@@ -49,4 +49,4 @@ Staff documentation update
 Future upgrade
 1. CCTV
 2. Electronic attendance
-3. 
+3. Cloud (done)
